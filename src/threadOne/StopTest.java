@@ -6,6 +6,7 @@ import java.math.BigDecimal;
  * Created by Administrator on 2018/11/10.
  */
 public class StopTest {
+    
 //    private static boolean stopRequested;
 
     //    private static synchronized void requestStop(){
